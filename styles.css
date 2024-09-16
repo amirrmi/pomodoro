@@ -1,0 +1,114 @@
+
+/* @font-face {
+  font-family: 'Yekan Bakh FaNum ExtraBlack';
+  src: url('YekanBakhFaNum-ExtraBlack.woff2') format('woff2'),
+      url('YekanBakhFaNum-ExtraBlack.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+} */
+
+/* @font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-Bold.woff2') format('woff2'),
+      url('YekanBakhFaNum-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-Black.woff2') format('woff2'),
+      url('YekanBakhFaNum-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-ExtraBold.woff2') format('woff2'),
+      url('YekanBakhFaNum-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-SemiBold.woff2') format('woff2'),
+      url('YekanBakhFaNum-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+} */
+
+/* @font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-Regular.woff2') format('woff2'),
+      url('YekanBakhFaNum-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-Thin.woff2') format('woff2'),
+      url('YekanBakhFaNum-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Yekan Bakh FaNum';
+  src: url('YekanBakhFaNum-Light.woff2') format('woff2'),
+      url('YekanBakhFaNum-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+} */
+
+h1 {
+  color: crimson;
+  font-family: 'Yekan Bakh FaNum';
+  font-weight: 700;
+  font-style: bold;
+  font-display: swap;
+}
+
+p { 
+  color: rgb(54, 54, 54);
+  font-family: 'Yekan Bakh FaNum';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 90%;
+}
+
+.thetable {
+font-family: 'Yekan Bakh FaNum';
+background-color: #ffffff;
+  width: 65%;
+  height: 220px;
+  text-align: center;
+  border-collapse: collapse;
+}
+  table.thetable td, table.thetable th {
+ padding: 3px 2px;
+}
+
+.p-class {
+  text-align-last: center;
+}
+
+ul li {
+  color: rgb(54, 54, 54);
+  font-family: 'Yekan Bakh FaNum';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  line-height: 90%;
+}
